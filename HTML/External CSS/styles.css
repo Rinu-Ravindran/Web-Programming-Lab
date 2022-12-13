@@ -4,13 +4,13 @@ text-align: left;
 }
 #para1
 {
-color: red;
-background-color: cyan;
+color: black;
+background-color:#bfbff2;
 }
 .center
 {
 color :grey;
-background-color: blue;
+background-color:#b3ffff;
 }
 
 *
@@ -22,7 +22,7 @@ h1,h2
 {
 text-align: left;
 color: black;
-background-color: orange;
+background-color:#FF00FF;
 }
 p
 {
@@ -31,9 +31,9 @@ text-align: justify;
 .second
 {
 text-align: justify;
-background-color: yellow;
+background-color:#ffe6f2;
 }
 #para2
 {
-color:blue;
+color:#009999;
 }
